@@ -1,0 +1,16 @@
+.logo {
+  width: 32px;
+  height: 32px;
+}
+
+.navbar {
+  height: 60px;
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
