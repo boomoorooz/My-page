@@ -32,12 +32,17 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+a {
+  text-decoration: dashed;
+  color: black;
+}
+
 .responsive {
   width: 100%;
   height: auto;
   filter: drop-shadow(15px 15px 15px rgb(126, 126, 126));
   margin-top: 1em;
-  border-radius: 10%;
+  border-radius: 15%;
 }
 
 .secondimg {
@@ -54,9 +59,18 @@ body {
   display: flex;
 }
 .text {
-  margin-top: 13em;
+  margin-top: 1em;
   margin-left: 20em;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   margin-right: 4em;
+  line-height: 1.6em;
+}
+
+h1.text {
+  text-align: center;
+  margin-right: 4em;
+  margin-left: 20em;
+  margin-top: 12em;
+  font-size: 20px;
 }
