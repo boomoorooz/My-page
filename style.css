@@ -60,7 +60,7 @@ a {
 }
 .text {
   margin-top: 1em;
-  margin-left: 20em;
+  margin-left: 23em;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   margin-right: 4em;
@@ -73,4 +73,25 @@ h1.text {
   margin-left: 20em;
   margin-top: 12em;
   font-size: 20px;
+}
+
+.container {
+  margin-top: 2em;
+  border-top: 1px solid #dbe3e3;
+  padding: 24px;
+}
+
+.containertext {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright {
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  text-align: center;
 }
