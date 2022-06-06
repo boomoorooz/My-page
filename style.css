@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,400&display=swap");
 
-.navbar {
+.navbarr-one {
   height: 40px;
   font-family: "Montserrat", sans-serif;
   font-size: 22px;
@@ -11,7 +11,7 @@
   color: rgba(0, 0, 0, 0.335);
 }
 
-.navbar:hover {
+.navbarr-one:hover {
   color: #000000;
 }
 
@@ -187,7 +187,7 @@ ul {
   height: 50px;
   margin-left: 5em;
   margin-bottom: 2em;
-  background-color: #ff1a1a;
+  background-color: #292929;
   font-family: "Montserrat", sans-serif;
-  color: white;
+  color: rgb(255, 255, 255);
 }
